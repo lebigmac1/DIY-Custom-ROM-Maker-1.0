@@ -14,3 +14,5 @@ The Pandora's Box has been fully unlocked at last! Now only your imagination is 
 Have fun debloating and customizing your fully read/writeable next-generation Android device!
 
 lebigmac
+
+NOTE: Official F2FS-RW patch by lebigmac coming 1. quartal 2023
