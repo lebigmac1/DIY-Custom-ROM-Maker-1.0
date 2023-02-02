@@ -13,5 +13,4 @@ totally exciting, fully read/write-able custom ROM and customize it however you 
 The Pandora's Box has been fully unlocked at last! Now only your imagination is your limit. Use your new powers responsibly.
 Have fun debloating and customizing your fully read/writeable next-generation Android device!
 
-Forever yours,
--lebigmac
+lebigmac
