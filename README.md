@@ -21,5 +21,6 @@ lebigmac
 ---------------------------------------------------------
 
 NOTE: Official F2FS-RW patch by lebigmac coming 1. quartal 2023
+
 To flash the script in recovery simply rename .apk to .zip and flash it!
 You can also modify the flashable .zip arguments in the included config.ini ;)
