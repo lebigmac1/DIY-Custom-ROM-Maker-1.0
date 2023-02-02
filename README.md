@@ -8,7 +8,7 @@ http://www.rommaker.com
 
 ---------------------------------------------------------
 
-Have you ever wanted to create your own Custom ROM from scratch but you didn't know how to do it properly?
+Have you ever wanted to create your own Custom ROM from scratch?
 Look no further. The ultimate DIY Custom ROM Maker solution is right here to help you do the job.
 
 Take your boring stock read-only firmware that shipped with your Android device and transform it into a
