@@ -1,6 +1,6 @@
 Welcome to the one and only, the original, the ultimate
 
-DIY Custom ROM Maker
+<b>DIY Custom ROM Maker</b>
 
 powered by SystemRW / SuperRW
 
