@@ -25,4 +25,4 @@ NOTE: Official F2FS-RW patch by lebigmac coming 1. quartal 2023
 To flash the script in recovery simply rename .apk to .zip and flash it!
 You can also modify the flashable .zip parameters in the included config.ini ;)
 
-<a target='_blank' rel='noopener noreferrer' href='https://github.com/lebigmac1/DIY-Custom-ROM-Maker-1.0/blob/main/lebigmac.sysrw.rommaker_screenshot_01.jpg?raw=true'><img style='width: 250px;' src='https://github.com/lebigmac1/DIY-Custom-ROM-Maker-1.0/blob/main/lebigmac.sysrw.rommaker_screenshot_01.jpg?raw=true'></a>
+<a target='_blank' href='https://github.com/lebigmac1/DIY-Custom-ROM-Maker-1.0/blob/main/lebigmac.sysrw.rommaker_screenshot_01.jpg?raw=true'><img style='width: 250px;' src='https://github.com/lebigmac1/DIY-Custom-ROM-Maker-1.0/blob/main/lebigmac.sysrw.rommaker_screenshot_01.jpg?raw=true'></a>
