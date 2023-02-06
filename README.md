@@ -1,4 +1,4 @@
-<div style="text-align: center;">Welcome to the one and only, the original, the ultimate
+<p style='text-align: center;'>Welcome to the one and only, the original, the ultimate
 
 <h1>DIY Custom ROM Maker<br>
 powered by SystemRW / SuperRW<br>
@@ -6,7 +6,7 @@ featuring MakeRW / ro2rw by lebigmac</h1>
 
 http://www.diycustomrom.com<br>
 http://www.rommaker.com<br>
-http://www.systemrw.com</div>
+http://www.systemrw.com</p>
 
 ---------------------------------------------------------
 
