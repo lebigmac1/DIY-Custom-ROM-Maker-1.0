@@ -1,15 +1,11 @@
 Welcome to the one and only, the original, the ultimate
 
-<b>DIY Custom ROM Maker</b>
-
+<h1>DIY Custom ROM Maker
 powered by SystemRW / SuperRW
+featuring MakeRW / ro2rw by lebigmac</h1>
 
-featuring MakeRW / ro2rw by lebigmac
-
-http://www.diycustomrom.com
-
-http://www.rommaker.com
-
+http://www.diycustomrom.com<br>
+http://www.rommaker.com<br>
 http://www.systemrw.com
 
 ---------------------------------------------------------
