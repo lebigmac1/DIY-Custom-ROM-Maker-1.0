@@ -1,6 +1,6 @@
 Welcome to the one and only, the original, the ultimate
 
-<h1 style='text-align: center;'>DIY Custom ROM Maker<br>
+<h1>DIY Custom ROM Maker<br>
 powered by SystemRW / SuperRW<br>
 featuring MakeRW / ro2rw by lebigmac</h1>
 
