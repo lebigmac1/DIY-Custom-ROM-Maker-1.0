@@ -4,6 +4,8 @@ Welcome to the one and only, the original, the ultimate
 powered by SystemRW / SuperRW<br>
 featuring MakeRW / ro2rw by lebigmac</h1>
 
+NOTE: This version is deprecated. Always grab the latest version @
+
 http://www.diycustomrom.com<br>
 http://www.rommaker.com<br>
 http://www.systemrw.com
