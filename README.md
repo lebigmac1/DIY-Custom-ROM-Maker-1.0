@@ -22,8 +22,6 @@ Have fun debloating and customizing your fully read/writeable next-generation An
 
 ---------------------------------------------------------
 
-NOTE: Official F2FS-RW patch by lebigmac coming 1. quartal 2023
-
 To flash the script in recovery simply rename .apk to .zip and flash it!
 You can also modify the flashable .zip parameters in the included config.ini ;)
 
